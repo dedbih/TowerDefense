@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3cf912cdce3d55b837db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TorreDefensaJuego",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-206b580e712f31bb03d2.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4335e639181a4aac8ef7.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-15b4c767f82bea6242d3.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-f5f9a5ceec174f694e1d.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-88fd08b158ba6bf37fdd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego-Debug-5c1c8365fea6006a523a.json",
+					"name" : "appTorreDefensaJuego",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_autogen-Debug-2ee7968b0481c7b3c1b5.json",
+					"name" : "appTorreDefensaJuego_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_autogen_timestamp_deps-Debug-054e7d0561f9eb0ab8c9.json",
+					"name" : "appTorreDefensaJuego_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_copy_qml-Debug-747cec2c96f174eb7ffe.json",
+					"name" : "appTorreDefensaJuego_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_copy_res-Debug-5be28d9f88c53daaa293.json",
+					"name" : "appTorreDefensaJuego_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_qmlimportscan-Debug-a00c8bd9292400acc1c2.json",
+					"name" : "appTorreDefensaJuego_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_qmllint-Debug-a753e2b5eb4211756e73.json",
+					"name" : "appTorreDefensaJuego_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_qmllint_json-Debug-8aeee5eddb87a057b5ab.json",
+					"name" : "appTorreDefensaJuego_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_qmllint_module-Debug-494ba3cc452a5e4a2337.json",
+					"name" : "appTorreDefensaJuego_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTorreDefensaJuego_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTorreDefensaJuego_qmltyperegistration-Debug-4b0ec2721ac86faa771f.json",
+					"name" : "appTorreDefensaJuego_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTorreDefensaJuego_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTorreDefensaJuego_aotstats_target-Debug-d595bf0e1531bfeb717a.json",
+					"name" : "module_appTorreDefensaJuego_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

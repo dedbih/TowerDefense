@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/TorreDefensaJuego/">
+    <file alias="Main.qml">C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/Main.qml</file>
+    <file alias="GameWindow.qml">C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/GameWindow.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,76 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Type QObject does not have a property parent for writing",
+                        "functionName": "onObjectAdded",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "onObjectAdded",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "col",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "objectName",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "text",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 30
+                    }
+                ],
+                "filepath": "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/GameWindow.qml"
+            }
+        ],
+        "moduleId": "TorreDefensaJuego(appTorreDefensaJuego)"
+    }
+]
