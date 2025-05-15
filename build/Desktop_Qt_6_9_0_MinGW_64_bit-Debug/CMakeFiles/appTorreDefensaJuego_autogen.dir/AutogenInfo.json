@@ -1,18 +1,18 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego",
+	"BUILD_DIR" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/CMakeLists.txt",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/CMakeLists.txt",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
@@ -25,7 +25,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
@@ -876,16 +876,24 @@
 		"C:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
 		"C:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_conf.cmake"
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_conf.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego",
+	"CMAKE_SOURCE_DIR" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/deps",
+	"DEP_FILE" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "appTorreDefensaJuego_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/pathfinder.h",
+			"MU",
+			"EWIEGA46WW/moc_pathfinder.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"MINGW_HAS_SECURE_API=1",
@@ -916,7 +924,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense",
 		"C:/Qt/6.9.0/mingw_64/include/QtQml/6.9.0",
 		"C:/Qt/6.9.0/mingw_64/include/QtQml/6.9.0/QtQml",
 		"C:/Qt/6.9.0/mingw_64/include/QtCore/6.9.0",
@@ -959,29 +967,33 @@
 		"-c",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp"
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp"
 	],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/appTorreDefensaJuego_autogen.dir/ParseCache.txt",
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/appTorreDefensaJuego_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.0/mingw_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/appTorreDefensaJuego_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/appTorreDefensaJuego_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/main.cpp",
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/pathfinder.cpp",
 			"MU",
 			null
 		]
@@ -990,12 +1002,11 @@
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : 
 	[
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp",
-		"C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp"
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp",
+		"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp"
 	],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : true,

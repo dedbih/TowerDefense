@@ -1,10 +1,10 @@
 -I
-C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
 -I
 C:/Qt/6.9.0/mingw_64/qml
 --resource
-C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TorreDefensaJuego.qrc
+C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TorreDefensaJuego.qrc
 --resource
-C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc
+C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc
 --module
 TorreDefensaJuego

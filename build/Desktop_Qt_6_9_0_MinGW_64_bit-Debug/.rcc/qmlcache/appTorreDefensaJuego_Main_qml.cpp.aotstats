@@ -4,20 +4,84 @@
             {
                 "entries": [
                     {
-                        "codegenSuccessfull": true,
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot access value for name filas",
+                        "functionName": "rows",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
                         "column": 18,
-                        "durationMicroseconds": 248,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name columnas",
+                        "functionName": "columns",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 145,
                         "errorMessage": "",
-                        "functionName": "top",
-                        "line": 14
+                        "functionName": "centerIn",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "Cannot access value for name pathFinder",
+                        "functionName": "model",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "value",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name value",
+                        "functionName": "visible",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot access value for name value",
+                        "functionName": "source",
+                        "line": 40
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 86,
+                        "durationMicroseconds": 66,
                         "errorMessage": "",
-                        "functionName": "horizontalCenter",
-                        "line": 16
+                        "functionName": "fillMode",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 38
                     },
                     {
                         "codegenSuccessfull": false,
@@ -25,15 +89,15 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"clicked\".",
                         "functionName": "onClicked",
-                        "line": 25
+                        "line": 58
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 22,
+                        "column": 25,
                         "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"top\".",
-                        "functionName": "top",
-                        "line": 22
+                        "errorMessage": "Could not find property \"bottom\".",
+                        "functionName": "bottom",
+                        "line": 55
                     },
                     {
                         "codegenSuccessfull": false,
@@ -41,10 +105,42 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"horizontalCenter\".",
                         "functionName": "horizontalCenter",
-                        "line": 24
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"bottom\".",
+                        "functionName": "bottom",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"horizontalCenter\".",
+                        "functionName": "horizontalCenter",
+                        "line": 68
                     }
                 ],
-                "filepath": "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/Main.qml"
+                "filepath": "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/Main.qml"
             }
         ],
         "moduleId": "TorreDefensaJuego(appTorreDefensaJuego)"

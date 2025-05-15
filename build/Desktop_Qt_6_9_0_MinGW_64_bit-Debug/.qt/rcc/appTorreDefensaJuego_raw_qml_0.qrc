@@ -1,7 +1,17 @@
 <RCC>
   <qresource prefix="/qt/qml/TorreDefensaJuego/">
-    <file alias="Main.qml">C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/Main.qml</file>
-    <file alias="GameWindow.qml">C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/GameWindow.qml</file>
+    <file alias="Main.qml">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/Main.qml</file>
+    <file alias="asset/images/ARP.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/ARP.png</file>
+    <file alias="asset/images/ARPM.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/ARPM.png</file>
+    <file alias="asset/images/ELF.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/ELF.png</file>
+    <file alias="asset/images/ELFM.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/ELFM.png</file>
+    <file alias="asset/images/ELFM.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/ELFM.png</file>
+    <file alias="asset/images/MER.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/MER.png</file>
+    <file alias="asset/images/MERM.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/MERM.png</file>
+    <file alias="asset/images/OGRO.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/OGRO.png</file>
+    <file alias="asset/images/OGROM.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/OGROM.png</file>
+    <file alias="asset/images/PASTO.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/PASTO.png</file>
+    <file alias="asset/images/TIERRA.png">C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/asset/images/TIERRA.png</file>
   </qresource>
 </RCC>
 

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/PASTO.png</file>
+        <file>img/screenst.png</file>
+        <file>img/TIERRA.png</file>
+        <file>img/logn.jpg</file>
+    </qresource>
+</RCC>

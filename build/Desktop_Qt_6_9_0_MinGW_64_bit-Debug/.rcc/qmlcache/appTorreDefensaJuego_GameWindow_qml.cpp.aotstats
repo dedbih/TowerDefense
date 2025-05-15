@@ -4,71 +4,71 @@
             {
                 "entries": [
                     {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name filas",
+                        "functionName": "rows",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name columnas",
+                        "functionName": "columns",
+                        "line": 17
+                    },
+                    {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 193,
+                        "durationMicroseconds": 130,
                         "errorMessage": "",
                         "functionName": "centerIn",
-                        "line": 15
+                        "line": 19
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 29,
-                        "durationMicroseconds": 24,
-                        "errorMessage": "Type QObject does not have a property parent for writing",
-                        "functionName": "onObjectAdded",
-                        "line": 35
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 29,
-                        "durationMicroseconds": 51,
-                        "errorMessage": "",
-                        "functionName": "onObjectAdded",
-                        "line": 35
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 36,
-                        "durationMicroseconds": 52,
-                        "errorMessage": "Cannot access value for name index",
-                        "functionName": "row",
-                        "line": 25
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 36,
-                        "durationMicroseconds": 21,
-                        "errorMessage": "Cannot access value for name index",
-                        "functionName": "col",
-                        "line": 26
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 29,
-                        "durationMicroseconds": 221,
-                        "errorMessage": "",
-                        "functionName": "objectName",
-                        "line": 27
+                        "column": 20,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name filas",
+                        "functionName": "model",
+                        "line": 22
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 35,
-                        "durationMicroseconds": 230,
+                        "durationMicroseconds": 108,
                         "errorMessage": "Cannot access value for name index",
-                        "functionName": "text",
+                        "functionName": "row",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "col",
                         "line": 31
                     },
                     {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "Cannot access value for name gridData",
+                        "functionName": "value",
+                        "line": 32
+                    },
+                    {
                         "codegenSuccessfull": true,
-                        "column": 47,
-                        "durationMicroseconds": 49,
+                        "column": 24,
+                        "durationMicroseconds": 602,
                         "errorMessage": "",
-                        "functionName": "centerIn",
-                        "line": 30
+                        "functionName": "color",
+                        "line": 34
                     }
                 ],
-                "filepath": "C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/TorreDefensaJuego/GameWindow.qml"
+                "filepath": "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/GameWindow.qml"
             }
         ],
         "moduleId": "TorreDefensaJuego(appTorreDefensaJuego)"
