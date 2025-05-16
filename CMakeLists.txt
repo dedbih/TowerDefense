@@ -29,6 +29,16 @@ qt_add_qml_module(appTorreDefensaJuego
     asset/images/OGROM.png
     asset/images/PASTO.png
     asset/images/TIERRA.png
+    asset/images/ART1.png
+    asset/images/ART2.png
+    asset/images/ART3.png
+    asset/images/ARQ1.png
+    asset/images/ARQ2.png
+    asset/images/ARQ3.png
+    asset/images/MAGO1.png
+    asset/images/MAGO2.png
+    asset/images/MAGO3.png
+
     SOURCES pathfinder.h pathfinder.cpp
 )
 

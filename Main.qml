@@ -36,11 +36,29 @@ Window {
 
                 Image {
                     anchors.fill: parent
-                    visible: (value === 2 || value === 3 || value === 0 || value === 1)
-                    source: value === 2 ? "asset/images/ELF.png"
-                            : value === 3 ? "asset/images/OGRO.png"
-                            : value === 0 ? "asset/images/PASTO.png"
+                    visible: (value === 0 || value === 1 || value === 2 || value === 3 || value ===5
+                              || value === 6 || value === 7 || value === 8 || value === 9 || value === 10
+                              || value ===11 || value ===12 || value ===13 ||value ===14 || value===15
+                              || value ===16 || value ===17 || value === 18 || value ===19)
+                    source: value === 0 ? "asset/images/PASTO.png"
                             : value === 1 ? "asset/images/TIERRA.png"
+                            : value === 2 ? "asset/images/ARP.png"
+                            : value === 3 ? "asset/images/ARPM.png"
+                            : value === 5 ? "asset/images/ELF.png"
+                            : value === 6 ? "asset/images/ELFM.png"
+                            : value === 7 ? "asset/images/OGRO.png"
+                            : value === 8 ? "asset/images/OGROM.png"
+                            : value === 9 ? "asset/images/MER.png"
+                            : value === 10 ? "asset/images/MERM.png"
+                            : value === 11 ? "asset/images/ART1.png"
+                            : value === 12 ? "asset/images/ART2.png"
+                            : value === 13 ? "asset/images/ART3.png"
+                            : value === 14 ? "asset/images/ARQ1.png"
+                            : value === 15 ? "asset/images/ARQ2.png"
+                            : value === 16 ? "asset/images/ARQ3.png"
+                            : value === 17 ? "asset/images/MAGO1.png"
+                            : value === 18 ? "asset/images/MAGO2.png"
+                            : value === 19 ? "asset/images/MAGO3.png"
                             : ""
                     fillMode: Image.PreserveAspectFit
                     smooth: true
