@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense
+-cmake-output
+-output-file
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug/.qt/qml_imports/appTorreDefensaJuego_conf.cmake
+-importPath
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug/TorreDefensaJuego
+-importPath
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug/.qt/rcc/qmake_TorreDefensaJuego.qrc
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc

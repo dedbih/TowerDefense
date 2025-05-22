@@ -1,8 +1,9 @@
-C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/EWIEGA46WW/moc_pathfinder.cpp: C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/pathfinder.h \
-  C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/moc_predefs.h \
+C:/Users/lasle/Desktop/o-o/U/I\ Semestre\ 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/EWIEGA46WW/moc_pathfinder.cpp: C:/Users/lasle/Desktop/o-o/U/I\ Semestre\ 2025/Datos2/MPOINTERS1/TowerDefense/pathfinder.h \
+  C:/Users/lasle/Desktop/o-o/U/I\ Semestre\ 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/moc_predefs.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/QList \
   C:/Qt/6.9.0/mingw_64/include/QtCore/QObject \
   C:/Qt/6.9.0/mingw_64/include/QtCore/QPoint \
+  C:/Qt/6.9.0/mingw_64/include/QtCore/QRandomGenerator \
   C:/Qt/6.9.0/mingw_64/include/QtCore/QTimer \
   C:/Qt/6.9.0/mingw_64/include/QtCore/QVariant \
   C:/Qt/6.9.0/mingw_64/include/QtCore/QVariantList \
@@ -78,6 +79,7 @@ C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_
   C:/Qt/6.9.0/mingw_64/include/QtCore/qpair.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/qpoint.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.9.0/mingw_64/include/QtCore/qrandom.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/qrefcount.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/qscopeguard.h \
@@ -180,6 +182,8 @@ C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/random.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/random.tcc \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
@@ -263,6 +267,7 @@ C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/random \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
@@ -299,13 +304,20 @@ C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/opt_random.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/emmintrin.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mmintrin.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pmmintrin.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xmmintrin.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \

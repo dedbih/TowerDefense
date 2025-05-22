@@ -69,8 +69,8 @@ Window {
 
     Button {
         id: findPathButton
-        text: "Encontrar Ruta"
-        anchors.bottom: moveButton.top
+        text: "Inicio"
+        anchors.bottom: matriz.bottom
         anchors.bottomMargin: 10
         anchors.horizontalCenter: parent.horizontalCenter
         onClicked: {
@@ -78,16 +78,5 @@ Window {
         }
     }
 
-    Button {
-        id: moveButton
-        text: "Mover Personaje"
-        anchors.bottom: parent.bottom
-        anchors.bottomMargin: 20
-        anchors.horizontalCenter: parent.horizontalCenter
-        enabled: !pathFinder.isMoving
-        onClicked: {
-            pathFinder.moveCharacter();
-        }
-    }
 }
 

@@ -1,14 +1,14 @@
 -rootPath
-C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense
 -cmake-output
 -output-file
-C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_conf.cmake
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_conf.cmake
 -importPath
-C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TorreDefensaJuego
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TorreDefensaJuego
 -importPath
-C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
 -importPath
 C:/Qt/6.9.0/mingw_64/qml
 -qrcFiles
-C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TorreDefensaJuego.qrc
-C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TorreDefensaJuego.qrc
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc

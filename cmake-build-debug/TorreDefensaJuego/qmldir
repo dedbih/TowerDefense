@@ -1,0 +1,5 @@
+module TorreDefensaJuego
+typeinfo appTorreDefensaJuego.qmltypes
+prefer :/qt/qml/TorreDefensaJuego/
+Main 1.0 Main.qml
+

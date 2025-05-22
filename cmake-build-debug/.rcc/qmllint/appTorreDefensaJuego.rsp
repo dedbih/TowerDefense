@@ -1,0 +1,10 @@
+--bare
+-I
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug/.qt/rcc/qmake_TorreDefensaJuego.qrc
+--resource
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/cmake-build-debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc
+C:/Users/lasle/Desktop/o-o/U/I Semestre 2025/Datos2/MPOINTERS1/TowerDefense/Main.qml
