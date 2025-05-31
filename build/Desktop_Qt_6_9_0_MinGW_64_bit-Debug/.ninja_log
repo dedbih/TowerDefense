@@ -1,107 +1,81 @@
 # ninja log v6
-140	469	7690991373487639	.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
-140	469	7690991373487639	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
-85	217	7691017207638862	.qt/appTorreDefensaJuego_res.txt	abd1809c4bb7ff3a
-1045	1371	7691017216080144	appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-85	217	7691017207638862	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_res.txt	abd1809c4bb7ff3a
-98	1045	7691017215914094	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
-421	553	7689890659096383	.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp.aotstats	fa1073ced1181c83
-98	1045	7691017215914094	.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
-1045	1371	7691017216080144	appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-1045	1371	7691017216080144	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-1045	1371	7691017216080144	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-1374	1482	7691017220241257	meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-2522	2728	7691017232670894	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
-1374	1482	7691017220241257	meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-1385	1514	7691017220563929	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp	a5a8f28a05be782b
-1482	2522	7691017220439231	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-1374	1482	7691017220241257	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-1374	1482	7691017220241257	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-570	616	7689891366955591	.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp	3f92a27a55b9e7a0
-1458	1708	7690125059055840	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TorreDefensaJuego/appTorreDefensaJuego.qmltypes	ea4789f14226930c
-421	553	7689890659096383	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp	fa1073ced1181c83
-2742	2908	7691017232998825	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp.obj	8bb03cc7bfb62ec9
-570	616	7689891366955591	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp	3f92a27a55b9e7a0
-1403	1526	7691017220731602	.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
-1403	1526	7691017220731602	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
-1458	1708	7690125059055840	TorreDefensaJuego/appTorreDefensaJuego.qmltypes	ea4789f14226930c
-421	553	7689890659096383	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp.aotstats	fa1073ced1181c83
-1385	1514	7691017220563929	.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp	a5a8f28a05be782b
-1482	2522	7691017220439231	meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-1875	4514	7690125061448881	CMakeFiles/appTorreDefensaJuego.dir/apptorredefensajuego_qmltyperegistrations.cpp.obj	aee271b0e17983c7
-1482	2522	7691017220439231	meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-1482	2522	7691017220439231	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-1458	1708	7690125059055840	apptorredefensajuego_qmltyperegistrations.cpp	ea4789f14226930c
-1458	1708	7690125059055840	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp	ea4789f14226930c
-2522	2728	7691017232670894	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
-2522	2728	7691017232670894	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
-2522	2728	7691017232670894	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
-421	553	7689890659096383	.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp	fa1073ced1181c83
-1865	4627	7690125061347418	CMakeFiles/appTorreDefensaJuego.dir/appTorreDefensaJuego_autogen/mocs_compilation.cpp.obj	66a3752f404d04aa
-736	805	7689891368256233	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp.obj	15f046bc3feb48b7
-2735	7241	7691017232972319	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.obj	850c219d2e046c3a
-1870	4936	7690125061397418	CMakeFiles/appTorreDefensaJuego.dir/main.cpp.obj	a0f4217f07b0301f
-554	2771	7689890659247847	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp.obj	f92594e0fdbf6f39
-1880	5089	7690125061501199	CMakeFiles/appTorreDefensaJuego.dir/pathfinder.cpp.obj	926b24a536089708
-2728	8095	7691017232903614	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp.obj	8a9d70d9334163e8
-8095	8723	7691017286545615	appTorreDefensaJuego.exe	3380f1ddce478956
-80	13233	7691048490100644	build.ninja	5a7bd8a78abf4d64
-64	13363	7691048490100644	build.ninja	5a7bd8a78abf4d64
-48	113	7691048495089260	.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
-48	113	7691048495089260	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
+45	94	7704343875767594	.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
+45	94	7704343875767594	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
 55	141	7691048495377564	.qt/appTorreDefensaJuego_res.txt	abd1809c4bb7ff3a
+22	801	7704351817508909	appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
 55	141	7691048495377564	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_res.txt	abd1809c4bb7ff3a
-62	604	7691048499976453	.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
-62	604	7691048499976453	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
-604	810	7691048500077932	appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-604	810	7691048500077932	appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-604	810	7691048500077932	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-604	810	7691048500077932	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-811	872	7691048502690694	meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-811	872	7691048502690694	meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-811	872	7691048502690694	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-811	872	7691048502690694	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-818	889	7691048502807011	.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp	a5a8f28a05be782b
+54	585	7704343880638090	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
+421	553	7689890659096383	.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp.aotstats	fa1073ced1181c83
+54	585	7704343880638090	.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
+22	801	7704351817508909	appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
+22	801	7704351817508909	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
+22	801	7704351817508909	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
+802	855	7704351819093107	meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
+1105	1274	7704351823193792	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
+802	855	7704351819093107	meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
 818	889	7691048502807011	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp	a5a8f28a05be782b
-826	900	7691048502938593	.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
-826	900	7691048502938593	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
-872	1007	7691048502760020	meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-872	1007	7691048502760020	meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-872	1007	7691048502760020	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-872	1007	7691048502760020	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-1007	1239	7691048506268831	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
-1007	1239	7691048506268831	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
-1007	1239	7691048506268831	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
-1007	1239	7691048506268831	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
-1250	1527	7691048506542335	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp.obj	8bb03cc7bfb62ec9
-1245	4786	7691048506491205	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.obj	850c219d2e046c3a
+856	949	7704351820026030	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
+802	855	7704351819093107	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
+802	855	7704351819093107	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
+570	616	7689891366955591	.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp	3f92a27a55b9e7a0
+949	1104	7704351820878504	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TorreDefensaJuego/appTorreDefensaJuego.qmltypes	ea4789f14226930c
+421	553	7689890659096383	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp	fa1073ced1181c83
+1094	1194	7704343885840970	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp.obj	8bb03cc7bfb62ec9
+570	616	7689891366955591	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp	3f92a27a55b9e7a0
+789	846	7704343883265274	.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
+1575	5513	7704323873176131	CMakeFiles/appTorreDefensaJuego.dir/combate.cpp.obj	b27a1fa742268ea2
+789	846	7704343883265274	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
+949	1104	7704351820878504	TorreDefensaJuego/appTorreDefensaJuego.qmltypes	ea4789f14226930c
+421	553	7689890659096383	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp.aotstats	fa1073ced1181c83
+818	889	7691048502807011	.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp	a5a8f28a05be782b
+856	949	7704351820026030	meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
+1283	4661	7704351823447218	CMakeFiles/appTorreDefensaJuego.dir/apptorredefensajuego_qmltyperegistrations.cpp.obj	aee271b0e17983c7
+856	949	7704351820026030	meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
+856	949	7704351820026030	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
+1896	5233	7704335314397448	CMakeFiles/appTorreDefensaJuego.dir/Random.cpp.obj	8867b6d0b7738b5d
+949	1104	7704351820878504	apptorredefensajuego_qmltyperegistrations.cpp	ea4789f14226930c
+949	1104	7704351820878504	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp	ea4789f14226930c
+1570	5413	7704323873120119	CMakeFiles/appTorreDefensaJuego.dir/proyectiles.cpp.obj	ed3a2a96fcb5070d
+1105	1274	7704351823193792	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
+1105	1274	7704351823193792	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
+1105	1274	7704351823193792	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
+421	553	7689890659096383	.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp	fa1073ced1181c83
+1274	5335	7704351823356593	CMakeFiles/appTorreDefensaJuego.dir/appTorreDefensaJuego_autogen/mocs_compilation.cpp.obj	66a3752f404d04aa
+736	805	7689891368256233	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp.obj	15f046bc3feb48b7
+1293	4968	7704351823534365	CMakeFiles/appTorreDefensaJuego.dir/oleadas.cpp.obj	82c0d00b4dc96d2
+1299	5006	7704351823589630	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.obj	850c219d2e046c3a
+1279	5044	7704351823403785	CMakeFiles/appTorreDefensaJuego.dir/main.cpp.obj	a0f4217f07b0301f
+554	2771	7689890659247847	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_GameWindow_qml.cpp.obj	f92594e0fdbf6f39
+1288	5440	7704351823481187	CMakeFiles/appTorreDefensaJuego.dir/pathfinder.cpp.obj	926b24a536089708
 1240	5150	7691048506445983	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp.obj	8a9d70d9334163e8
-5150	5960	7691048545543010	appTorreDefensaJuego.exe	3380f1ddce478956
-43	231	7691048870414111	appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-43	231	7691048870414111	appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-43	231	7691048870414111	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-43	231	7691048870414111	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-232	279	7691048872723831	meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-232	279	7691048872723831	meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-232	279	7691048872723831	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-232	279	7691048872723831	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-279	377	7691048872783832	meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-279	377	7691048872783832	meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-279	377	7691048872783832	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-279	377	7691048872783832	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-378	3221	7691048873773831	CMakeFiles/appTorreDefensaJuego.dir/main.cpp.obj	a0f4217f07b0301f
-3221	3720	7691048902211524	appTorreDefensaJuego.exe	3380f1ddce478956
-45	226	7691049337487519	appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-45	226	7691049337487519	appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-45	226	7691049337487519	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/timestamp	894feb9b97e65df9
-45	226	7691049337487519	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/mocs_compilation.cpp	894feb9b97e65df9
-227	272	7691049339708573	meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-227	272	7691049339708573	meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-227	272	7691049339708573	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt	20125693ebd48f92
-227	272	7691049339708573	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt.timestamp	20125693ebd48f92
-272	360	7691049339768608	meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-272	360	7691049339768608	meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-272	360	7691049339768608	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen	a609b725ba17f8da
-272	360	7691049339768608	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json	a609b725ba17f8da
-360	3007	7691049340653401	CMakeFiles/appTorreDefensaJuego.dir/main.cpp.obj	a0f4217f07b0301f
-3008	3500	7691049367116592	appTorreDefensaJuego.exe	3380f1ddce478956
+5440	6152	7704351865011429	appTorreDefensaJuego.exe	95e67e2afa468b1
+18	1912	7704338213028447	build.ninja	5a7bd8a78abf4d64
+2485	3276	7704115463686867	CMakeFiles/appTorreDefensaJuego.dir/Enemigos.cpp.obj	49aff812578a8ccd
+2491	3443	7704115463745514	CMakeFiles/appTorreDefensaJuego.dir/Torres.cpp.obj	4ae7fa886c540891
+2257	6552	7704319120831445	CMakeFiles/appTorreDefensaJuego.dir/colisiones.cpp.obj	98d613560785bfba
+51	102	7704355328425859	.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
+51	102	7704355328425859	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
+59	665	7704355334030010	.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
+59	665	7704355334030010	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
+674	733	7704355334730780	.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
+674	733	7704355334730780	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
+665	826	7704355335588185	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
+665	826	7704355335588185	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
+665	826	7704355335588185	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
+665	826	7704355335588185	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
+832	929	7704355335810292	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp.obj	8bb03cc7bfb62ec9
+827	3357	7704355335758481	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.obj	850c219d2e046c3a
+3357	4062	7704355361033467	appTorreDefensaJuego.exe	95e67e2afa468b1
+47	94	7704359198378348	.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
+47	94	7704359198378348	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTorreDefensaJuego_qml.txt	22ded0ca63d3de3b
+55	591	7704359203335573	.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
+55	591	7704359203335573	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_build.cmake	699fbd045d31e8c4
+600	652	7704359203979518	.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
+600	652	7704359203979518	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp	4075509725e346de
+591	748	7704359204860342	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
+591	748	7704359204860342	.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
+591	748	7704359204860342	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp	b06953b8bbe7db82
+591	748	7704359204860342	C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.aotstats	b06953b8bbe7db82
+753	856	7704359205063093	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp.obj	8bb03cc7bfb62ec9
+749	3292	7704359205032420	CMakeFiles/appTorreDefensaJuego.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.obj	850c219d2e046c3a
+3292	3985	7704359230456998	appTorreDefensaJuego.exe	95e67e2afa468b1

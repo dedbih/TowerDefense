@@ -1,0 +1,128 @@
+{
+    "classes": [
+        {
+            "className": "Proyectiles",
+            "lineNumber": 33,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "tipoTorre",
+                            "type": "int"
+                        },
+                        {
+                            "name": "danno",
+                            "type": "int"
+                        },
+                        {
+                            "name": "origen",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "objetivo",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "tipoAtaque",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "crearProyectil",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "limpiarProyectiles",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "pausar",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "name": "reanudar",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "proyectilesActivos",
+                    "notify": "proyectilesActivosChanged",
+                    "read": "proyectilesActivos",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Proyectiles",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "proyectilesActivosChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "proyectilId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "posicion",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "danno",
+                            "type": "int"
+                        },
+                        {
+                            "name": "tipoAtaque",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "proyectilImpacto",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "gridActualizado",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 3,
+                    "name": "actualizarProyectiles",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "proyectiles.h",
+    "outputRevision": 69
+}

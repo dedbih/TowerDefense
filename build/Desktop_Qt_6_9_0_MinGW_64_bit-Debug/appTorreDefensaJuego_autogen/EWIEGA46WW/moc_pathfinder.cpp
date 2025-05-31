@@ -42,11 +42,25 @@ template <> constexpr inline auto PathFinder::qt_create_metaobjectdata<qt_meta_t
         "gridDataChanged",
         "",
         "isMovingChanged",
+        "selectedTowerTypeChanged",
         "findPath",
         "moveCharacter",
+        "placeTower",
+        "row",
+        "col",
+        "upgradeTower",
+        "getTowerLevel",
+        "towerType",
+        "getTowerType",
+        "iniciarOleada",
+        "detenerOleada",
+        "hayOleadaActiva",
         "gridData",
         "QVariantList",
-        "isMoving"
+        "isMoving",
+        "selectedTowerType",
+        "oleadas",
+        "Oleadas*"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -54,16 +68,44 @@ template <> constexpr inline auto PathFinder::qt_create_metaobjectdata<qt_meta_t
         QtMocHelpers::SignalData<void()>(1, 2, QMC::AccessPublic, QMetaType::Void),
         // Signal 'isMovingChanged'
         QtMocHelpers::SignalData<void()>(3, 2, QMC::AccessPublic, QMetaType::Void),
+        // Signal 'selectedTowerTypeChanged'
+        QtMocHelpers::SignalData<void()>(4, 2, QMC::AccessPublic, QMetaType::Void),
         // Method 'findPath'
-        QtMocHelpers::MethodData<void()>(4, 2, QMC::AccessPublic, QMetaType::Void),
-        // Method 'moveCharacter'
         QtMocHelpers::MethodData<void()>(5, 2, QMC::AccessPublic, QMetaType::Void),
+        // Method 'moveCharacter'
+        QtMocHelpers::MethodData<void()>(6, 2, QMC::AccessPublic, QMetaType::Void),
+        // Method 'placeTower'
+        QtMocHelpers::MethodData<bool(int, int)>(7, 2, QMC::AccessPublic, QMetaType::Bool, {{
+            { QMetaType::Int, 8 }, { QMetaType::Int, 9 },
+        }}),
+        // Method 'upgradeTower'
+        QtMocHelpers::MethodData<bool(int, int)>(10, 2, QMC::AccessPublic, QMetaType::Bool, {{
+            { QMetaType::Int, 8 }, { QMetaType::Int, 9 },
+        }}),
+        // Method 'getTowerLevel'
+        QtMocHelpers::MethodData<int(int) const>(11, 2, QMC::AccessPublic, QMetaType::Int, {{
+            { QMetaType::Int, 12 },
+        }}),
+        // Method 'getTowerType'
+        QtMocHelpers::MethodData<int(int) const>(13, 2, QMC::AccessPublic, QMetaType::Int, {{
+            { QMetaType::Int, 12 },
+        }}),
+        // Method 'iniciarOleada'
+        QtMocHelpers::MethodData<void()>(14, 2, QMC::AccessPublic, QMetaType::Void),
+        // Method 'detenerOleada'
+        QtMocHelpers::MethodData<void()>(15, 2, QMC::AccessPublic, QMetaType::Void),
+        // Method 'hayOleadaActiva'
+        QtMocHelpers::MethodData<bool() const>(16, 2, QMC::AccessPublic, QMetaType::Bool),
     };
     QtMocHelpers::UintData qt_properties {
         // property 'gridData'
-        QtMocHelpers::PropertyData<QVariantList>(6, 0x80000000 | 7, QMC::DefaultPropertyFlags | QMC::Writable | QMC::EnumOrFlag | QMC::StdCppSet, 0),
+        QtMocHelpers::PropertyData<QVariantList>(17, 0x80000000 | 18, QMC::DefaultPropertyFlags | QMC::Writable | QMC::EnumOrFlag | QMC::StdCppSet, 0),
         // property 'isMoving'
-        QtMocHelpers::PropertyData<bool>(8, QMetaType::Bool, QMC::DefaultPropertyFlags, 1),
+        QtMocHelpers::PropertyData<bool>(19, QMetaType::Bool, QMC::DefaultPropertyFlags, 1),
+        // property 'selectedTowerType'
+        QtMocHelpers::PropertyData<int>(20, QMetaType::Int, QMC::DefaultPropertyFlags | QMC::Writable | QMC::StdCppSet, 2),
+        // property 'oleadas'
+        QtMocHelpers::PropertyData<Oleadas*>(21, 0x80000000 | 22, QMC::DefaultPropertyFlags | QMC::EnumOrFlag | QMC::Constant),
     };
     QtMocHelpers::UintData qt_enums {
     };
@@ -87,8 +129,21 @@ void PathFinder::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         switch (_id) {
         case 0: _t->gridDataChanged(); break;
         case 1: _t->isMovingChanged(); break;
-        case 2: _t->findPath(); break;
-        case 3: _t->moveCharacter(); break;
+        case 2: _t->selectedTowerTypeChanged(); break;
+        case 3: _t->findPath(); break;
+        case 4: _t->moveCharacter(); break;
+        case 5: { bool _r = _t->placeTower((*reinterpret_cast< std::add_pointer_t<int>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<int>>(_a[2])));
+            if (_a[0]) *reinterpret_cast< bool*>(_a[0]) = std::move(_r); }  break;
+        case 6: { bool _r = _t->upgradeTower((*reinterpret_cast< std::add_pointer_t<int>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<int>>(_a[2])));
+            if (_a[0]) *reinterpret_cast< bool*>(_a[0]) = std::move(_r); }  break;
+        case 7: { int _r = _t->getTowerLevel((*reinterpret_cast< std::add_pointer_t<int>>(_a[1])));
+            if (_a[0]) *reinterpret_cast< int*>(_a[0]) = std::move(_r); }  break;
+        case 8: { int _r = _t->getTowerType((*reinterpret_cast< std::add_pointer_t<int>>(_a[1])));
+            if (_a[0]) *reinterpret_cast< int*>(_a[0]) = std::move(_r); }  break;
+        case 9: _t->iniciarOleada(); break;
+        case 10: _t->detenerOleada(); break;
+        case 11: { bool _r = _t->hayOleadaActiva();
+            if (_a[0]) *reinterpret_cast< bool*>(_a[0]) = std::move(_r); }  break;
         default: ;
         }
     }
@@ -97,12 +152,23 @@ void PathFinder::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
             return;
         if (QtMocHelpers::indexOfMethod<void (PathFinder::*)()>(_a, &PathFinder::isMovingChanged, 1))
             return;
+        if (QtMocHelpers::indexOfMethod<void (PathFinder::*)()>(_a, &PathFinder::selectedTowerTypeChanged, 2))
+            return;
+    }
+    if (_c == QMetaObject::RegisterPropertyMetaType) {
+        switch (_id) {
+        default: *reinterpret_cast<int*>(_a[0]) = -1; break;
+        case 3:
+            *reinterpret_cast<int*>(_a[0]) = qRegisterMetaType< Oleadas* >(); break;
+        }
     }
     if (_c == QMetaObject::ReadProperty) {
         void *_v = _a[0];
         switch (_id) {
         case 0: *reinterpret_cast<QVariantList*>(_v) = _t->gridData(); break;
         case 1: *reinterpret_cast<bool*>(_v) = _t->isMoving(); break;
+        case 2: *reinterpret_cast<int*>(_v) = _t->selectedTowerType(); break;
+        case 3: *reinterpret_cast<Oleadas**>(_v) = _t->oleadas(); break;
         default: break;
         }
     }
@@ -110,6 +176,7 @@ void PathFinder::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         void *_v = _a[0];
         switch (_id) {
         case 0: _t->setGridData(*reinterpret_cast<QVariantList*>(_v)); break;
+        case 2: _t->setSelectedTowerType(*reinterpret_cast<int*>(_v)); break;
         default: break;
         }
     }
@@ -134,20 +201,20 @@ int PathFinder::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 4)
+        if (_id < 12)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 4;
+        _id -= 12;
     }
     if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 4)
+        if (_id < 12)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 4;
+        _id -= 12;
     }
     if (_c == QMetaObject::ReadProperty || _c == QMetaObject::WriteProperty
             || _c == QMetaObject::ResetProperty || _c == QMetaObject::BindableProperty
             || _c == QMetaObject::RegisterPropertyMetaType) {
         qt_static_metacall(this, _c, _id, _a);
-        _id -= 2;
+        _id -= 4;
     }
     return _id;
 }
@@ -162,5 +229,11 @@ void PathFinder::gridDataChanged()
 void PathFinder::isMovingChanged()
 {
     QMetaObject::activate(this, &staticMetaObject, 1, nullptr);
+}
+
+// SIGNAL 2
+void PathFinder::selectedTowerTypeChanged()
+{
+    QMetaObject::activate(this, &staticMetaObject, 2, nullptr);
 }
 QT_WARNING_POP

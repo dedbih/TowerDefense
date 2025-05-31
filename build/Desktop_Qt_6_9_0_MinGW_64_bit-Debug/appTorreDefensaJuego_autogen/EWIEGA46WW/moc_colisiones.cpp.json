@@ -1,0 +1,146 @@
+{
+    "classes": [
+        {
+            "className": "Colisiones",
+            "lineNumber": 9,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "posicionProyectil",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "enemigos",
+                            "type": "QList<Enemigo>"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "verificarImpactoProyectil",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "posicion",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "enemigos",
+                            "type": "QList<Enemigo>"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "encontrarEnemigoEnPosicion",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "enemigoId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "danno",
+                            "type": "int"
+                        },
+                        {
+                            "name": "tipoAtaque",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "enemigos",
+                            "type": "QList<Enemigo>&"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "aplicarDanno",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "p1",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "p2",
+                            "type": "QPoint"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "calcularDistancia",
+                    "returnType": "float"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "posicionTorre",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "posicionEnemigo",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "alcance",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "estaEnRango",
+                    "returnType": "bool"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "Colisiones",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "enemigoId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "tipoEnemigo",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "enemigoEliminado",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "enemigoId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "dannoRealizado",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "dannoAplicado",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "colisiones.h",
+    "outputRevision": 69
+}

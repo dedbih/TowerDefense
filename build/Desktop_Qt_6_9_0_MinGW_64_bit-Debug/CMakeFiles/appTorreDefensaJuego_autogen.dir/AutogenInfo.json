@@ -885,6 +885,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/oleadas.h",
+			"MU",
+			"EWIEGA46WW/moc_oleadas.cpp",
+			null
+		],
+		[
 			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/pathfinder.h",
 			"MU",
 			"EWIEGA46WW/moc_pathfinder.cpp",
@@ -988,7 +994,27 @@
 	"SOURCES" : 
 	[
 		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/Enemigos.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/Random.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/Torres.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/oleadas.cpp",
 			"MU",
 			null
 		],

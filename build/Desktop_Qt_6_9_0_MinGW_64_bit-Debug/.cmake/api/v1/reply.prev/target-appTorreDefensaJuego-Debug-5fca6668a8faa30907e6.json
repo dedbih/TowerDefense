@@ -27,13 +27,13 @@
 			"qt6_add_qml_module",
 			"qt_add_qml_module",
 			"add_dependencies",
-			"_qt_internal_qml_copy_files_to_build_dir",
-			"qt6_target_qml_sources",
 			"_qt_internal_scan_qml_imports",
 			"_qt_internal_generate_deploy_qml_imports_script",
 			"cmake_language",
 			"_qt_internal_finalize_executable",
 			"qt6_finalize_target",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
 			"target_include_directories",
 			"_qt_internal_qml_type_registration",
 			"target_sources",
@@ -104,13 +104,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 51,
+				"line" : 68,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 46,
+				"line" : 63,
 				"parent" : 0
 			},
 			{
@@ -414,74 +414,74 @@
 				"parent" : 61
 			},
 			{
-				"command" : 15,
-				"file" : 10,
-				"line" : 916,
-				"parent" : 24
-			},
-			{
-				"command" : 14,
-				"file" : 10,
-				"line" : 3465,
-				"parent" : 63
-			},
-			{
-				"command" : 13,
-				"file" : 10,
-				"line" : 2870,
-				"parent" : 64
-			},
-			{
-				"command" : 14,
-				"file" : 10,
-				"line" : 3471,
-				"parent" : 63
-			},
-			{
-				"command" : 13,
-				"file" : 10,
-				"line" : 2870,
-				"parent" : 66
-			},
-			{
 				"file" : 1,
 				"line" : -1,
 				"parent" : 0
 			},
 			{
-				"command" : 20,
+				"command" : 18,
 				"file" : 23,
 				"line" : 1,
-				"parent" : 68
-			},
-			{
-				"command" : 19,
-				"file" : 0,
-				"line" : 816,
-				"parent" : 69
-			},
-			{
-				"command" : 18,
-				"file" : 0,
-				"line" : 738,
-				"parent" : 70
+				"parent" : 63
 			},
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 738,
-				"parent" : 71
+				"line" : 816,
+				"parent" : 64
 			},
 			{
 				"command" : 16,
+				"file" : 0,
+				"line" : 738,
+				"parent" : 65
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 738,
+				"parent" : 66
+			},
+			{
+				"command" : 14,
 				"file" : 10,
 				"line" : 4344,
-				"parent" : 72
+				"parent" : 67
 			},
 			{
 				"command" : 13,
 				"file" : 10,
 				"line" : 4119,
+				"parent" : 68
+			},
+			{
+				"command" : 20,
+				"file" : 10,
+				"line" : 916,
+				"parent" : 24
+			},
+			{
+				"command" : 19,
+				"file" : 10,
+				"line" : 3465,
+				"parent" : 70
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 2870,
+				"parent" : 71
+			},
+			{
+				"command" : 19,
+				"file" : 10,
+				"line" : 3471,
+				"parent" : 70
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 2870,
 				"parent" : 73
 			},
 			{
@@ -553,62 +553,68 @@
 			{
 				"command" : 23,
 				"file" : 10,
+				"line" : 897,
+				"parent" : 24
+			},
+			{
+				"command" : 23,
+				"file" : 10,
 				"line" : 3192,
-				"parent" : 63
+				"parent" : 70
 			},
 			{
 				"command" : 29,
 				"file" : 10,
 				"line" : 3329,
-				"parent" : 63
+				"parent" : 70
 			},
 			{
 				"command" : 23,
 				"file" : 10,
 				"line" : 1721,
-				"parent" : 87
+				"parent" : 88
 			},
 			{
 				"command" : 23,
 				"file" : 10,
 				"line" : 3385,
-				"parent" : 63
+				"parent" : 70
 			},
 			{
 				"command" : 28,
 				"file" : 10,
 				"line" : 3487,
-				"parent" : 63
+				"parent" : 70
 			},
 			{
 				"command" : 27,
 				"file" : 0,
 				"line" : 401,
-				"parent" : 90
+				"parent" : 91
 			},
 			{
 				"command" : 26,
 				"file" : 0,
 				"line" : 2530,
-				"parent" : 91
+				"parent" : 92
 			},
 			{
 				"command" : 23,
 				"file" : 0,
 				"line" : 2074,
-				"parent" : 92
+				"parent" : 93
 			},
 			{
 				"command" : 30,
 				"file" : 0,
 				"line" : 810,
-				"parent" : 69
+				"parent" : 64
 			},
 			{
 				"command" : 23,
 				"file" : 0,
 				"line" : 2199,
-				"parent" : 94
+				"parent" : 95
 			}
 		]
 	},
@@ -795,7 +801,14 @@
 				4,
 				6,
 				7,
-				8
+				8,
+				9,
+				11,
+				13,
+				15,
+				17,
+				18,
+				19
 			]
 		},
 		{
@@ -985,23 +998,23 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 65,
+			"backtrace" : 69,
+			"id" : "appTorreDefensaJuego_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 72,
 			"id" : "appTorreDefensaJuego_copy_qml::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 67,
+			"backtrace" : 74,
 			"id" : "appTorreDefensaJuego_copy_res::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 74,
-			"id" : "appTorreDefensaJuego_qmlimportscan::@6890427a1f51a3e7e1df"
+			"id" : "appTorreDefensaJuego_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 0,
 			"id" : "appTorreDefensaJuego_autogen::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "appTorreDefensaJuego_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appTorreDefensaJuego::@6890427a1f51a3e7e1df",
@@ -1152,16 +1165,16 @@
 			"sourceIndexes" : 
 			[
 				0,
-				22,
-				31,
-				32,
-				33,
-				34,
-				35,
-				36,
-				37,
-				38,
-				39
+				42,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59
 			]
 		},
 		{
@@ -1173,7 +1186,14 @@
 				4,
 				6,
 				7,
-				8
+				8,
+				9,
+				11,
+				13,
+				15,
+				17,
+				18,
+				19
 			]
 		},
 		{
@@ -1181,32 +1201,26 @@
 			"sourceIndexes" : 
 			[
 				2,
+				16,
+				21
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
 				5,
-				10
+				10,
+				12,
+				14
 			]
 		},
 		{
 			"name" : "Resources",
 			"sourceIndexes" : 
 			[
-				9,
-				11,
-				12,
-				13,
-				14,
-				15,
-				16,
-				17,
-				18,
-				19,
 				20,
-				21
-			]
-		},
-		{
-			"name" : "CMake Rules",
-			"sourceIndexes" : 
-			[
+				22,
 				23,
 				24,
 				25,
@@ -1214,7 +1228,32 @@
 				27,
 				28,
 				29,
-				30
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50
 			]
 		}
 	],
@@ -1255,97 +1294,204 @@
 		},
 		{
 			"backtrace" : 86,
+			"path" : "pathfinder.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "pathfinder.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "Random.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "Enemigos.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "Torres.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"path" : "oleadas.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "oleadas.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"path" : "proyectiles.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "proyectiles.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"path" : "combate.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "combate.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 87,
 			"path" : "Main.qml",
 			"sourceGroupIndex" : 2
 		},
 		{
-			"backtrace" : 88,
+			"backtrace" : 89,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 89,
+			"backtrace" : 90,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 93,
+			"backtrace" : 94,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_TorreDefensaJuego.qrc",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/TorreDefensaJuego/qmldir",
 			"sourceGroupIndex" : 2
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTorreDefensaJuego_raw_qml_0.qrc",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/ARP.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/ARPM.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/ELF.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/ELFM.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/MER.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/MERM.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/OGRO.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/OGROM.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/PASTO.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 95,
+			"backtrace" : 96,
 			"path" : "asset/images/TIERRA.png",
-			"sourceGroupIndex" : 3
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/ART1.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/ART2.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/ART3.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/ARQ1.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/ARQ2.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/ARQ3.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/MAGO1.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/MAGO2.png",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 96,
+			"path" : "asset/images/MAGO3.png",
+			"sourceGroupIndex" : 4
 		},
 		{
 			"backtrace" : 0,
@@ -1357,49 +1503,49 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptorredefensajuego_debug_metatypes.json.gen.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptorredefensajuego_qmltyperegistrations.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_TorreDefensaJuego.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_qmlcache_loader.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTorreDefensaJuego_Main_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTorreDefensaJuego_raw_qml_0.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/timestamp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTorreDefensaJuego_json_file_list.txt.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 41,

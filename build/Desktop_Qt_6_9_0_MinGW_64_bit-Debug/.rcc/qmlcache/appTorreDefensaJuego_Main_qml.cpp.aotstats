@@ -5,127 +5,135 @@
                 "entries": [
                     {
                         "codegenSuccessfull": false,
-                        "column": 15,
-                        "durationMicroseconds": 107,
-                        "errorMessage": "Cannot access value for name filas",
-                        "functionName": "rows",
-                        "line": 16
+                        "column": 5,
+                        "durationMicroseconds": 649,
+                        "errorMessage": "Cannot access value for name pathFinder",
+                        "functionName": "placeTowerFromInput",
+                        "line": 309
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 18,
-                        "durationMicroseconds": 17,
-                        "errorMessage": "Cannot access value for name columnas",
-                        "functionName": "columns",
-                        "line": 17
+                        "column": 5,
+                        "durationMicroseconds": 589,
+                        "errorMessage": "Cannot access value for name pathFinder",
+                        "functionName": "upgradeTowerFromInput",
+                        "line": 323
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "Cannot access value for name pathFinder",
+                        "functionName": "getTowerName",
+                        "line": 337
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 27,
-                        "durationMicroseconds": 142,
+                        "column": 23,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name filas",
+                        "functionName": "rows",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot access value for name columnas",
+                        "functionName": "columns",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "centerIn",
-                        "line": 19
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 20,
-                        "durationMicroseconds": 184,
-                        "errorMessage": "Cannot access value for name pathFinder",
-                        "functionName": "model",
-                        "line": 22
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 37,
-                        "durationMicroseconds": 154,
-                        "errorMessage": "Cannot access value for name modelData",
-                        "functionName": "value",
                         "line": 29
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 263,
-                        "errorMessage": "",
-                        "functionName": "color",
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "Cannot access value for name pathFinder",
+                        "functionName": "model",
                         "line": 32
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 30,
-                        "durationMicroseconds": 598,
-                        "errorMessage": "Cannot access value for name value",
-                        "functionName": "visible",
+                        "column": 45,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "value",
                         "line": 39
                     },
                     {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 42
+                    },
+                    {
                         "codegenSuccessfull": false,
-                        "column": 29,
-                        "durationMicroseconds": 713,
+                        "column": 38,
+                        "durationMicroseconds": 558,
+                        "errorMessage": "Cannot access value for name value",
+                        "functionName": "visible",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 723,
                         "errorMessage": "Cannot access value for name value",
                         "functionName": "source",
-                        "line": 43
+                        "line": 53
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 31,
-                        "durationMicroseconds": 126,
+                        "column": 39,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 63
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 35,
-                        "durationMicroseconds": 45,
-                        "errorMessage": "",
-                        "functionName": "fill",
-                        "line": 38
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 20,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 76
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 25,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"bottom\".",
-                        "functionName": "bottom",
                         "line": 73
                     },
                     {
-                        "codegenSuccessfull": false,
-                        "column": 35,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"horizontalCenter\".",
-                        "functionName": "horizontalCenter",
-                        "line": 75
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 48
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 18,
+                        "column": 28,
                         "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"enabled\".",
-                        "functionName": "enabled",
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
                         "line": 87
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 20,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 88
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 25,
+                        "column": 33,
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"bottom\".",
                         "functionName": "bottom",
@@ -133,11 +141,323 @@
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 35,
+                        "column": 43,
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"horizontalCenter\".",
                         "functionName": "horizontalCenter",
                         "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"fill\".",
+                        "functionName": "fill",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"highlighted\".",
+                        "functionName": "highlighted",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"highlighted\".",
+                        "functionName": "highlighted",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"highlighted\".",
+                        "functionName": "highlighted",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"accepted\".",
+                        "functionName": "onAccepted",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "method getTowerName cannot be resolved.",
+                        "functionName": "text",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"accepted\".",
+                        "functionName": "onAccepted",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 251
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 266
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 284
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 295
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 297
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 298
                     }
                 ],
                 "filepath": "C:/Users/franc/OneDrive/Documentos/Proyectos C++/TowerDefense/Main.qml"

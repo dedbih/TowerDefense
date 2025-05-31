@@ -1,0 +1,138 @@
+{
+    "classes": [
+        {
+            "className": "Combate",
+            "lineNumber": 33,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "gridData",
+                            "type": "QVariantList*"
+                        },
+                        {
+                            "name": "oleadas",
+                            "type": "Oleadas*"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "iniciarCombate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "detenerCombate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "name": "pausarCombate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "name": "reanudarCombate",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "combateActivo",
+                    "notify": "combateActivoChanged",
+                    "read": "combateActivo",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Combate",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "combateActivoChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "tipoEnemigo",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "enemigoEliminado",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "posicionTorre",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "posicionEnemigo",
+                            "type": "QPoint"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "torreDisparo",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 3,
+                    "name": "procesarCombate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "proyectilId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "posicion",
+                            "type": "QPoint"
+                        },
+                        {
+                            "name": "danno",
+                            "type": "int"
+                        },
+                        {
+                            "name": "tipoAtaque",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "manejarImpactoProyectil",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "combate.h",
+    "outputRevision": 69
+}

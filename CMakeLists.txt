@@ -40,6 +40,12 @@ qt_add_qml_module(appTorreDefensaJuego
     asset/images/MAGO3.png
 
     SOURCES pathfinder.h pathfinder.cpp
+    SOURCES Random.cpp
+    SOURCES Enemigos.cpp
+    SOURCES Torres.cpp
+    SOURCES oleadas.h oleadas.cpp
+    SOURCES
+    SOURCES
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

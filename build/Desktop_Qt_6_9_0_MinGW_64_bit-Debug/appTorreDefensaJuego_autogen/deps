@@ -995,6 +995,9 @@ appTorreDefensaJuego_autogen/timestamp: \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/CMakeLists.txt \
+	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/Enemigos.cpp \
+	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/Random.cpp \
+	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/Torres.cpp \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTorreDefensaJuego_conf.cmake \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
@@ -1002,6 +1005,8 @@ appTorreDefensaJuego_autogen/timestamp: \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTorreDefensaJuego_autogen/moc_predefs.h \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/main.cpp \
+	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/oleadas.cpp \
+	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/oleadas.h \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/pathfinder.cpp \
 	C:/Users/franc/OneDrive/Documentos/Proyectos\ C++/TowerDefense/pathfinder.h \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

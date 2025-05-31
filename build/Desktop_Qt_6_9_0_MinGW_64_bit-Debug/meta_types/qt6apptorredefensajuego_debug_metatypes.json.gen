@@ -2,20 +2,247 @@
     {
         "classes": [
             {
-                "className": "PathFinder",
-                "lineNumber": 10,
+                "className": "Oleadas",
+                "lineNumber": 24,
                 "methods": [
                     {
                         "access": "public",
+                        "arguments": [
+                            {
+                                "name": "ruta",
+                                "type": "QList<QPoint>"
+                            },
+                            {
+                                "name": "gridData",
+                                "type": "QVariantList&"
+                            }
+                        ],
+                        "index": 7,
+                        "name": "iniciarOleada",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "name": "detenerOleada",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 9,
+                        "name": "pausarOleada",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 10,
+                        "name": "reanudarOleada",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "oleadaActiva",
+                        "notify": "oleadaActivaChanged",
+                        "read": "oleadaActiva",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "enemigosRestantes",
+                        "notify": "enemigosRestantesChanged",
+                        "read": "enemigosRestantes",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
                         "index": 2,
+                        "name": "enemigosEnCampo",
+                        "notify": "enemigosEnCampoChanged",
+                        "read": "enemigosEnCampo",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Oleadas",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "oleadaActivaChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "enemigosRestantesChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "enemigosEnCampoChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tipoEnemigo",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 3,
+                        "name": "enemigoLlegoDestino",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "name": "oleadaCompletada",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 5,
+                        "name": "gridActualizado",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 6,
+                        "name": "procesarOleada",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "oleadas.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "PathFinder",
+                "lineNumber": 12,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 3,
                         "name": "findPath",
                         "returnType": "void"
                     },
                     {
                         "access": "public",
-                        "index": 3,
+                        "index": 4,
                         "name": "moveCharacter",
                         "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "row",
+                                "type": "int"
+                            },
+                            {
+                                "name": "col",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 5,
+                        "name": "placeTower",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "row",
+                                "type": "int"
+                            },
+                            {
+                                "name": "col",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 6,
+                        "name": "upgradeTower",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "towerType",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 7,
+                        "isConst": true,
+                        "name": "getTowerLevel",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "towerType",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 8,
+                        "isConst": true,
+                        "name": "getTowerType",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "index": 9,
+                        "name": "iniciarOleada",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 10,
+                        "name": "detenerOleada",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 11,
+                        "isConst": true,
+                        "name": "hayOleadaActiva",
+                        "returnType": "bool"
                     }
                 ],
                 "object": true,
@@ -48,6 +275,34 @@
                         "stored": true,
                         "type": "bool",
                         "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "name": "selectedTowerType",
+                        "notify": "selectedTowerTypeChanged",
+                        "read": "selectedTowerType",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setSelectedTowerType"
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "name": "oleadas",
+                        "read": "oleadas",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "Oleadas*",
+                        "user": false
                     }
                 ],
                 "qualifiedClassName": "PathFinder",
@@ -62,6 +317,12 @@
                         "access": "public",
                         "index": 1,
                         "name": "isMovingChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "selectedTowerTypeChanged",
                         "returnType": "void"
                     }
                 ],
